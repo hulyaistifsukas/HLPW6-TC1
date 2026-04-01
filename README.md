@@ -3,7 +3,7 @@ Location for Test Case 1 related activities.
 
 Participants are requested to create a folder their result submission. Naming structure is as follows:
 
-**Foldername = PID\_Organization\_Solver e.g. 006\_Boeing\_charLES
+**Foldername = PID\_Organization\_Solver** e.g. 006\_Boeing\_charLES
 Where:  
 - **PID** = Participant ID, defined in readme from level above   
 - **Organization** = Your company/ affiliation, e.g. Boeing, LaRC
