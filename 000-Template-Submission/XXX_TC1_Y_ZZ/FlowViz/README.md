@@ -1,4 +1,4 @@
-#Include your flow visualisation images here
+# Include your flow visualisation images here
 
 Image should utilize suggested flow visualization views and variables as defined [here](https://aiaa-hlpw.org/HLPW6/TC1_Post)
 
